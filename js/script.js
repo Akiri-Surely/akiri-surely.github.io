@@ -80,10 +80,10 @@ $(function(){
 		Testimonials Slider
 	=========================================================================*/
 	$('.testimonials-slider').owlCarousel({
-		items: 1,
+		items: 2,
 		responsive:{
 			992: {
-				items: 1
+				items: 2
 			},
 			0: {
 				items: 1
